@@ -1,8 +1,8 @@
 Lenguaje R
 
-Nivel Básico (1-33)
-Hola Mundo: Imprimir un mensaje simple.
-Operaciones Matemáticas Básicas: Suma, resta, multiplicación y división.
+1. Nivel Básico (1-33)
+2. Hola Mundo: Imprimir un mensaje simple.
+3. Operaciones Matemáticas Básicas: Suma, resta, multiplicación y división.
 Vectores: Creación y operaciones básicas con vectores.
 Matrices: Creación y manipulación básica de matrices.
 Listas: Crear y manipular listas.
