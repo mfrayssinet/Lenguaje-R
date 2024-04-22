@@ -1,4 +1,3 @@
-# Demo5: Usar un loop para imprimir los números del 1 al 20
-for(i in 1:20) {
-  print(i)
-}
+#Crea una lista que contiene diferentes tipos de elementos como nombre, edad y altura, y luego la imprime.
+lista <- list(nombre="Juan", edad=25, altura=1.75)
+print(lista)
