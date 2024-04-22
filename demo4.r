@@ -1,4 +1,3 @@
-# Demo4: Crear un vector con los números del 1 al 10 y calcular su suma
-numeros <- 1:10
-suma <- sum(numeros)
-print(paste("La suma de los números del 1 al 10 es", suma))
+#Matrices, Genera una matriz de 3x3 con los números del 1 al 9.
+matriz <- matrix(1:9, nrow=3, ncol=3)
+print(matriz)
