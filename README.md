@@ -1,22 +1,22 @@
 Lenguaje R
 
-1. Nivel Básico (1-33)
-2. Hola Mundo: Imprimir un mensaje simple.
-3. Operaciones Matemáticas Básicas: Suma, resta, multiplicación y división.
-Vectores: Creación y operaciones básicas con vectores.
-Matrices: Creación y manipulación básica de matrices.
-Listas: Crear y manipular listas.
-Factores: Creación y uso básico de factores.
-Data Frames: Crear y manipular data frames básicos.
-Condiciones If-Else: Usar condiciones para control de flujo.
-Bucles For: Implementar bucles for para iterar sobre vectores.
-Bucles While: Uso de bucles while.
-Funciones: Definir funciones simples.
-Importar Datos: Leer datos de un archivo CSV.
-Exportar Datos: Escribir datos a un archivo CSV.
-Uso Básico de ggplot2: Crear un gráfico de barras.
-Histogramas: Generar y personalizar histogramas.
-Boxplots: Crear diagramas de caja.
+Nivel Básico (1-33)
+1. Hola Mundo: Imprimir un mensaje simple.
+2. Operaciones Matemáticas Básicas: Suma, resta, multiplicación y división.
+3. Vectores: Creación y operaciones básicas con vectores.
+4. Matrices: Creación y manipulación básica de matrices.
+5. Listas: Crear y manipular listas.
+6. Factores: Creación y uso básico de factores.
+7. Data Frames: Crear y manipular data frames básicos.
+8. Condiciones If-Else: Usar condiciones para control de flujo.
+9. Bucles For: Implementar bucles for para iterar sobre vectores.
+10. Bucles While: Uso de bucles while.
+11. Funciones: Definir funciones simples.
+12. Importar Datos: Leer datos de un archivo CSV.
+13. Exportar Datos: Escribir datos a un archivo CSV.
+14. Uso Básico de ggplot2: Crear un gráfico de barras.
+15. Histogramas: Generar y personalizar histogramas.
+16. Boxplots: Crear diagramas de caja.
 Gráficos de Líneas: Hacer gráficos de líneas simples.
 Operaciones con Strings: Concatenación y manipulación básica de strings.
 Uso de dplyr para filtrar datos: Filtrar filas de un data frame.
