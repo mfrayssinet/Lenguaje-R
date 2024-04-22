@@ -1,5 +1,7 @@
-# Demo2: Calcular la suma de dos números
-numero1 <- 5
-numero2 <- 7
-suma <- numero1 + numero2
-print(paste("La suma es", suma))
+#Operaciones Matemáticas Básicas
+suma <- 5 + 3
+resta <- 5 - 3
+multiplicacion <- 5 * 3
+division <- 5 / 3
+print(c(suma, resta, multiplicacion, division))
+
