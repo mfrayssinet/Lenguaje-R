@@ -17,27 +17,27 @@ R es un entorno y lenguaje de programación para análisis estadístico y cienci
 14. Uso Básico de ggplot2: Crear un gráfico de barras.
 15. Histogramas: Generar y personalizar histogramas.
 16. Boxplots: Crear diagramas de caja.
-Gráficos de Líneas: Hacer gráficos de líneas simples.
-Operaciones con Strings: Concatenación y manipulación básica de strings.
-Uso de dplyr para filtrar datos: Filtrar filas de un data frame.
-Agregación de Datos: Sumarizar datos usando dplyr.
-Merge de Data Frames: Combinar data frames por una columna clave.
-Uso de Date: Manipulación básica de fechas.
-Script Simple de Análisis: Análisis descriptivo básico de un dataset.
-Creación de Tablas de Contingencia: Uso de table() para datos categóricos.
-Pruebas Estadísticas Simples: Realizar una prueba t de Student.
-Correlación y Regresión Simple: Calcular correlación y ajustar un modelo lineal.
-Simulación de Dados: Simular lanzamientos de un dado.
-Análisis de Supervivencia Básico: Uso básico de survival.
-Gráficos de Densidad: Crear y personalizar gráficos de densidad.
-Análisis Exploratorio de Datos: Uso de múltiples técnicas para explorar un dataset.
-Manejo de NA: Métodos para tratar valores faltantes.
-Scripts Interactivos con Shiny: Crear una app Shiny simple.
-Uso de Paquetes Externos: Instalar y cargar paquetes.
-Nivel Intermedio (34-66)
-Análisis de Componentes Principales (PCA).
-Análisis Cluster: K-means y clustering jerárquico.
-Redes Neuronales Básicas con R.
+17. Gráficos de Líneas: Hacer gráficos de líneas simples.
+18. Operaciones con Strings: Concatenación y manipulación básica de strings.
+19. Uso de dplyr para filtrar datos: Filtrar filas de un data frame.
+20. Agregación de Datos: Sumarizar datos usando dplyr.
+21. Merge de Data Frames: Combinar data frames por una columna clave.
+22. Uso de Date: Manipulación básica de fechas.
+23. Script Simple de Análisis: Análisis descriptivo básico de un dataset.
+24. Creación de Tablas de Contingencia: Uso de table() para datos categóricos.
+25. Pruebas Estadísticas Simples: Realizar una prueba t de Student.
+26. Correlación y Regresión Simple: Calcular correlación y ajustar un modelo lineal.
+27. Simulación de Dados: Simular lanzamientos de un dado.
+28. Análisis de Supervivencia Básico: Uso básico de survival.
+29. Gráficos de Densidad: Crear y personalizar gráficos de densidad.
+30. Análisis Exploratorio de Datos: Uso de múltiples técnicas para explorar un dataset.
+31. Manejo de NA: Métodos para tratar valores faltantes.
+32. Scripts Interactivos con Shiny: Crear una app Shiny simple.
+33. Uso de Paquetes Externos: Instalar y cargar paquetes.
+## **Nivel Intermedio (34-66)**
+34. Análisis de Componentes Principales (PCA).
+35. Análisis Cluster: K-means y clustering jerárquico.
+36. Redes Neuronales Básicas con R.
 Modelos de Regresión Avanzados: Regresión logística, Poisson.
 Uso Avanzado de ggplot2: Facetas, temas personalizados.
 Series de Tiempo: Análisis básico de series de tiempo.
