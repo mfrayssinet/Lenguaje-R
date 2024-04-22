@@ -1,5 +1,5 @@
 # **Lenguaje R**
-
+R es un entorno y lenguaje de programación para análisis estadístico y ciencia de datos. Es ampliamente utilizado por científicos de datos, investigadores, analistas y entusiastas de los datos. A continuacion se presentan ejemplos a nivel basico, intermedio y avanzado.
 ## Nivel Básico (1-33)
 1. Hola Mundo: Imprimir un mensaje simple.
 2. Operaciones Matemáticas Básicas: Suma, resta, multiplicación y división.
