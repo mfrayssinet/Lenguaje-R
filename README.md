@@ -1,6 +1,6 @@
-#**Lenguaje R**
+# **Lenguaje R**
 
-##Nivel Básico (1-33)
+## Nivel Básico (1-33)
 1. Hola Mundo: Imprimir un mensaje simple.
 2. Operaciones Matemáticas Básicas: Suma, resta, multiplicación y división.
 3. Vectores: Creación y operaciones básicas con vectores.
